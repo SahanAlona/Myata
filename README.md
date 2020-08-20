@@ -1,1 +1,1 @@
-Site 'Myata'
+Site Myata
