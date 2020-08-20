@@ -1,2 +1,1 @@
-# SahanAlona.github.io
-site myata
+Site 'Myata'
